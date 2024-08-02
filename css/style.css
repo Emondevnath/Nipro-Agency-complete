@@ -612,7 +612,6 @@ header{
 .nipro_b button:hover{
    background-color: #8e8e8e;
    color: #ffffff;
-   border: 1px solid transparent;
 }
 .nipro_b button:hover span{
   
